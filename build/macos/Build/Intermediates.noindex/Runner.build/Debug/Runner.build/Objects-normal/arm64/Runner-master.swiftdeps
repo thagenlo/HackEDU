@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "32c094f701c8398667e8756fc6a74853ba02c5db0f19a660ee2650ddb47d8a63"
+build_start_time: [1665889702, 453042030]
+build_end_time: [1665889704, 206794023]
+inputs:
+  "/Users/victoriahagenlocker/Apps/hack_edu/macos/Flutter/GeneratedPluginRegistrant.swift": [1665889691, 727578401]
+  "/Users/victoriahagenlocker/Apps/hack_edu/macos/Runner/AppDelegate.swift": [1664987375, 0]
+  "/Users/victoriahagenlocker/Apps/hack_edu/macos/Runner/MainFlutterWindow.swift": [1664987375, 0]
